@@ -21,7 +21,6 @@ end
 def last_evaluated_value(value)
   value = "i am the first value"
   value = "expert"
-  value
 end
 
 def pizza_party(speak="cheese")
